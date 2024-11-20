@@ -5,6 +5,7 @@ double_descent
 dd.py
 
 二重降下現象をpytorchのライブラリから引っ張ってきたResNetなどを使って観察するコード
+
 dd_scratch_models_combine.py
 
 学習過程の概念獲得を観察するコード

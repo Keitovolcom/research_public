@@ -11,6 +11,7 @@ dd_scratch_models_combine.py
 学習過程の概念獲得を観察するコード
 combineのラベルノイズに関して、色・数字のラベル両方異なるラベルにする
 accuracyに関して、combineの正解率だけでなく、色・数字の正解率も出力する
+
 dd_scratch_models_for_spread_noise.py
 
 combineのラベルノイズに関して、色・数字のラベル両方異なるラベルにする
